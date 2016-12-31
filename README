@@ -1,0 +1,6 @@
+This project is based on one simple idea that if any sequence contains a palindrom or
+inverted reapeat, then the kmer count will be dominated by count of 2 if the kmers
+are counter from both the forward and reverse direction.
+
+Khai is the project lead and Christopher spend a lots of time to work on this
+project.
